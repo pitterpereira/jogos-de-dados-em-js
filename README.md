@@ -1,4 +1,5 @@
 # Jogo de Dados
+---
 
 Um simples jogo de dado feito em HTML, CSS e Javascript. 
 
