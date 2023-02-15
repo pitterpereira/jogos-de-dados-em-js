@@ -1,4 +1,4 @@
-# Jogo de dados 🎲
+# Jogo de dados 🎲 - Número Maior
 
 Um simples jogo de dado feito em HTML, CSS e Javascript. 
 
