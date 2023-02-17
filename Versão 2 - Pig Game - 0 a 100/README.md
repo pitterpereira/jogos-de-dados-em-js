@@ -4,7 +4,7 @@ Um simples jogo de dado feito em HTML, CSS e Javascript onde os jogadores compet
 
 <br>
 
-![Versão 2 - Pig Game - 0 a 100](https://user-images.githubusercontent.com/9722670/219536678-970db68b-bcee-4751-a720-c3dee2986be9.gif)
+![Versão 2 - Pig Game - 0 a 100](https://user-images.githubusercontent.com/9722670/219537136-c53d6e37-cb50-4538-95c4-c0ebb8620525.gif)
 
 <br>
 
