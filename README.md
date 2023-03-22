@@ -1,4 +1,5 @@
 # Jogos de dados em Javascript 🎲
+---
 
 Alguns jogos de dados que implementei como exercício de treino de manipulação de DOM e lógica.
 
